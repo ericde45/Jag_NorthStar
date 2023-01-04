@@ -12,3 +12,5 @@ original Amiga demo : https://www.pouet.net/prod.php?which=31286
 
 
 thanks to 42Bastian for sharing his blitter line routine
+
+Jaguar version :  https://youtu.be/nwEYMZ7k1Yc 
