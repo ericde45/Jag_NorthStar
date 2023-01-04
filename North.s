@@ -653,7 +653,6 @@ RAPTOR_PAL_VMID        EQU     322
 ;
 ; AMIGA Future Composer v1.4 player
 ; v1.3 support added by Leonard
-; Changed for "Oxygene Paula Emulator" compatible
 ;
 ;*************************************************************************
 ; A0=pointeur sur le module FC3 ou FC4
